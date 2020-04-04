@@ -6,7 +6,7 @@
 2.After having the setup, clone a copy the repository:
 
 ```
-
+   https://github.com/Dhanyabahadur/challenge.git
 ```
 
 3.Then you navigate to this folder in terminal and install requirements needed for Jupyter notebooks.
